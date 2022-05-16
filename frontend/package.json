@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.1.4",
+    "@pinia/nuxt": "^0.1.9",
+    "@unocss/nuxt": "^0.33.0",
+    "@vueuse/nuxt": "^8.4.2",
+    "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "@capacitor/android": "^3.5.1",
+    "@capacitor/cli": "^3.5.1",
+    "@capacitor/core": "^3.5.1",
+    "pinia": "^2.0.14"
+  }
+}
